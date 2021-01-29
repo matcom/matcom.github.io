@@ -1,5 +1,4 @@
-# Facultad de Matemática y Computación - Universidad de La Habana
-
+# Facultad de Matemática y Computación
 ## Grupos de Telegram
 
 ### Generales
