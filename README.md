@@ -4,7 +4,6 @@
 ### Generales
 
 - [MatCom](https://t.me/matcomuh)
-- [MatCom Discuss](https://t.me/matcomdiscuss)
 - [MatCom Offtopic](https://t.me/matcomofftopic)
 - [MatCom Alumni](https://t.me/matcom_alumni)
 
