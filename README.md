@@ -1,9 +1,10 @@
 # Facultad de Matemática y Computación
-## Grupos de Telegram
+## Canales y Grupos de Telegram
 
 ### Generales
 
-- [MatCom Discuss](https://t.me/matcomuh)
+- [MatCom](https://t.me/matcomuh)
+- [MatCom Discuss](https://t.me/matcomdiscuss)
 - [MatCom Offtopic](https://t.me/matcomofftopic)
 - [MatCom Alumni](https://t.me/matcom_alumni)
 
