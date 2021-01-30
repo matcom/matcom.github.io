@@ -38,3 +38,7 @@
 - [Complementos de Compilación](https://t.me/joinchat/UkbXobIGtxDoZRn3)
 - [Modelos de Optimización](https://t.me/joinchat/GHUVbJV5mwldtjrZ)
 - [Probabilidades](https://t.me/joinchat/H7tbClZXZ7qNOj5n)
+
+#### 5to año
+
+- [General](https://t.me/joinchat/Eot_OMW4izzfde40)
