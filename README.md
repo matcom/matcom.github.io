@@ -11,20 +11,32 @@
 
 ### Matemática
 
+#### 1er año
+
+- [Introducción al Análisis](https://t.me/joinchat/V_mSA19hJzRls7UL)
+
 #### 3er año
 
 - [General](https://t.me/joinchat/ITpCWOlTEkHDyKh6)
+- [Análisis de Funciones de Variable Compleja](https://t.me/joinchat/HhFPOB7hKVhzHl8e)
+- [Ecuaciones Diferenciales Ordinarias](https://t.me/joinchat/HF6MWgpVth41IKAo)
 - [Inferencia Estadística](https://t.me/joinchat/HpOoM39zKC4c22rX)
 - [Matemática Numérica](https://t.me/joinchat/IBHz2XhDHWnl8ocA)
 - [Optimización Matemática I](https://t.me/joinchat/H6Q1GxYDqTKNfCv3)
 
 #### 4to año
 
+- [General](https://t.me/joinchat/RuyVBEXiz-aaAsKL)
 - [Geometría Diferencial](https://t.me/joinchat/GaozRmdmIbeNlVyp)
 - [Historia de la Matemática](https://t.me/joinchat/V5Ot89TMY3GtCnjB)
 - [Medida e Integración](https://t.me/joinchat/GQGNnD7JbQRvwg54)
 
 ### Ciencia de la Computación 
+
+#### 2do año
+
+- [Arquitectura de Computadoras](https://t.me/joinchat/Ry-t96XW-aGbS_Pu)
+- [Ecuaciones Diferenciales Ordinarias](http://t.me/edocompumat21)
 
 #### 3er año
 
