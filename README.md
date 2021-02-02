@@ -23,7 +23,6 @@
 - [Inferencia Estadística](https://t.me/joinchat/HpOoM39zKC4c22rX)
 - [Matemática Numérica](https://t.me/joinchat/IBHz2XhDHWnl8ocA)
 - [Optimización Matemática I](https://t.me/joinchat/H6Q1GxYDqTKNfCv3)
-- [Programación Declarativa](https://t.me/joinchat/Hdna7lPViP48Z-GM)
 
 #### 4to año
 
@@ -45,6 +44,7 @@
 - [Estadística](https://t.me/joinchat/H-_j2dPFtZIhVgGB)
 - [Ingeniería de Software](https://t.me/joinchat/IVcYPaY1YXJ9ahpN)
 - [Modelos de Optimización](https://t.me/joinchat/GHUVbJV5mwldtjrZ)
+- [Programación Declarativa](https://t.me/joinchat/Hdna7lPViP48Z-GM)
 
 #### 4to año
 
