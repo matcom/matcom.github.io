@@ -45,6 +45,7 @@
 - [Ingeniería de Software](https://t.me/joinchat/IVcYPaY1YXJ9ahpN)
 - [Modelos de Optimización](https://t.me/joinchat/GHUVbJV5mwldtjrZ)
 - [Programación Declarativa](https://t.me/joinchat/Hdna7lPViP48Z-GM)
+- [Sistemas de Bases de Datos II](https://t.me/joinchat/IRAcoXCdXZ2pwoqi)
 
 #### 4to año
 
