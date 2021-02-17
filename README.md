@@ -56,7 +56,7 @@
 #### 5to año
 
 - [General](https://t.me/joinchat/Eot_OMW4izzfde40)
+- [Didáctica](https://t.me/joinchat/IsHnCsIQd5waPpCr)
 - [Historia de la Computación](https://t.me/joinchat/I0AFsdntwsW6bsYJ)
 - [Modelos Gráficos Probabilistas](https://t.me/joinchat/IOv4JCTG1iLvGtwf)
-- [Didáctica](https://t.me/joinchat/IsHnCsIQd5waPpCr)
-- [Metodología](https://t.me/joinchat/GpXNN8PZxCKMsOmI)
+- [Metodología de la Investigación](https://t.me/joinchat/GpXNN8PZxCKMsOmI)
