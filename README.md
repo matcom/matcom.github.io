@@ -58,3 +58,5 @@
 - [General](https://t.me/joinchat/Eot_OMW4izzfde40)
 - [Historia de la Computación](https://t.me/joinchat/I0AFsdntwsW6bsYJ)
 - [Modelos Gráficos Probabilistas](https://t.me/joinchat/IOv4JCTG1iLvGtwf)
+- [Didáctica](https://t.me/joinchat/IsHnCsIQd5waPpCr)
+- [Metodología](https://t.me/joinchat/GpXNN8PZxCKMsOmI)
