@@ -60,3 +60,4 @@
 - [Historia de la Computación](https://t.me/joinchat/I0AFsdntwsW6bsYJ)
 - [Modelos Gráficos Probabilistas](https://t.me/joinchat/IOv4JCTG1iLvGtwf)
 - [Metodología de la Investigación](https://t.me/joinchat/GpXNN8PZxCKMsOmI)
+- [Sistemas de Información](https://t.me/joinchat/SUL7iIv7loPcFHSy)
