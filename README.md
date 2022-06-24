@@ -17,9 +17,14 @@ Vínculos a formularios para introducir información de los diferentes procesos 
 
 ## Canales y Grupos de Telegram
 
-Canales oficiales de la Facultad.
+Canales oficiales de la Facultad:
 
 - [MatCom](https://t.me/matcomuh)
 - [MatCom Discuss](https://t.me/joinchat/RVLUImMXV1_4-4P7)
 - [MatCom Offtopic](https://t.me/matcomofftopic)
-- [MatCom Alumni](https://t.me/matcom_alumni)
+
+Otros canales de interés:
+
+- [Canal de Alumni](https://t.me/matcom_alumni)
+- [Canal de Investigación](https://t.me/matcom_research)
+- [Canal de Posgrado](https://t.me/matcom_postgrad)
