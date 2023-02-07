@@ -4,10 +4,6 @@ Esta página contiene vínculos a recursos, proyectos, y otras páginas de MatCo
 
 > Para adicionar o corregir información, puede dejar un PR, o contactar a [@apiad](https://t.me/apiad) en Telegram.
 
-## [Formularios](https://matcom.github.io/forms)
-
-Vínculos a formularios para introducir información de los diferentes procesos docentes y metodológicos.
-
 ## ⚗️ Investigación y Posgrado
 
 ### Cursos de Posgrado
