@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Cursos de Posgrado
 
 A continuación el listado de cursos de posgrado ofrecidos en el presente año.
