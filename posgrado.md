@@ -32,4 +32,4 @@ Los requisitos para solicitar la matrícula son:
 - Presentar un currículum vitae resumido (1-2 páginas).
 - Presentar un aval de la institución a la que pertenece donde su superior inmediato se comprometa a garantizar que usted dispone del tiempo suficiente para participar en las actividades lectivas y realizar las evaluaciones correspondientes.
 
-Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, las matrículas otorgadas serán notificadas via correo electrónico con un mínimos de 15 días antes del comienzo del curso en cuesti 
+Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, las matrículas otorgadas serán notificadas via correo electrónico con un mínimos de 15 días antes del comienzo del curso en cuesti
