@@ -13,7 +13,7 @@ Los siguientes cursos de posgrado tributan al Diplomado en Inteligencia Artifici
 
 | Título | Fecha |  |
 |--------|-------|-------------|
-| Introducción a Python | 6/3 - 24/3 | [**Inscripción**](https://forms.gle/AaqR4XeLzXKv1SfY8) |
+| Introducción a Python | 6/3 - 24/3 | [Inscribirse](https://forms.gle/AaqR4XeLzXKv1SfY8) |
 | Análisis de Redes Complejas | 27/3 - 14/4 | |
 | Aprendizaje Automático | 24/4 - 12/5 | |
 | Metaheurísticas | 15/5 - 9/6 | |
