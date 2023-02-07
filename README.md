@@ -8,14 +8,11 @@ Esta página contiene vínculos a recursos, proyectos, y otras páginas de MatCo
 
 Vínculos a formularios para introducir información de los diferentes procesos docentes y metodológicos.
 
-### ⚗️ Investigación y Posgrado
+## ⚗️ Investigación y Posgrado
 
-> [👉 Ver información subida](https://docs.google.com/spreadsheets/d/1gMsff_y88fq_yv8pJxnqbw4Mk4wlvNo8gct_v3oNIgM/edit?usp=sharing)
+### Cursos de Posgrado
 
-- [Publicaciones](https://matcom.github.io/forms/publications)
-- [Tutoría de tesis](https://matcom.github.io/forms/thesis)
-- [Cursos de Posgrado](https://matcom.github.io/forms/courses)
-- [Proyectos](https://matcom.github.io/forms/projects)
+- [Ofertas de cursos de posgrado, primer semestre 2023](/posgrado)
 
 ## 🗨️ Canales y Grupos de Telegram
 
