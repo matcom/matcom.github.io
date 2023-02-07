@@ -26,7 +26,7 @@ Todos los cursos constarán de 2 actividades presenciales semanales, generalment
 
 Para aplicar a cualquiera de los cursos ofertados, haga click en el siguiente link:
 
-> ### [](Formulario de Inscripción en Curso de Posgrado)
+> ### [Formulario de Inscripción en Curso de Posgrado]()
 
 Los requisitos para solicitar la matrícula son:
 
