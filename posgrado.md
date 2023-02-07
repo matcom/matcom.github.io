@@ -11,9 +11,9 @@ A continuación el listado de cursos de posgrado ofrecidos en el presente año.
 
 Los siguientes cursos de posgrado tributan al Diplomado en Inteligencia Artificial, por el que podrá optar una vez completados todos los créditos necesarios.
 
-| Título | Fecha | Inscripción |
+| Título | Fecha |  |
 |--------|-------|-------------|
-| Introducción a Python | 6/3 - 24/3 | [**LINK**](https://forms.gle/AaqR4XeLzXKv1SfY8) |
+| Introducción a Python | 6/3 - 24/3 | [**Inscripción**](https://forms.gle/AaqR4XeLzXKv1SfY8) |
 | Análisis de Redes Complejas | 27/3 - 14/4 | |
 | Aprendizaje Automático | 24/4 - 12/5 | |
 | Metaheurísticas | 15/5 - 9/6 | |
@@ -29,7 +29,7 @@ Para aplicar a cualquiera de los cursos ofertados, haga click en el link corresp
 Los requisitos para solicitar la matrícula son:
 
 - Ser graduado de nivel superior, preferiblemente de una carrera con perfil relacionado a la Matemática y/o la Ciencia de la Computación (en carreras no relacionadas se analizará de forma particular el currículum).
-- Entregar un currículum vitae resumido (1-2 páginas).
+- Presentar un currículum vitae resumido (1-2 páginas).
 - Presentar un aval de la institución a la que pertenece donde su superior inmediato se comprometa a garantizar que usted dispone del tiempo suficiente para participar en las actividades lectivas y realizar las evaluaciones correspondientes.
 
 Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, las matrículas otorgadas serán notificadas via correo electrónico con un mínimos de 15 días antes del comienzo del curso en cuesti 
