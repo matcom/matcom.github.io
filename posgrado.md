@@ -11,12 +11,12 @@ A continuación el listado de cursos de posgrado ofrecidos en el presente año.
 
 Los siguientes cursos de posgrado tributan al Diplomado en Inteligencia Artificial, por el que podrá optar una vez completados todos los créditos necesarios.
 
-| Título | Fecha |
-|--------|-------|
-| Introducción a Python | 6/3 - 24/3 |
-| Análisis de Redes Complejas | 27/3 - 14/4 |
-| Aprendizaje Automático | 24/4 - 12/5 |
-| Metaheurísticas | 15/5 - 9/6 |
+| Título | Fecha | Inscripción |
+|--------|-------|-------------|
+| Introducción a Python | 6/3 - 24/3 | [LINK](https://forms.gle/AaqR4XeLzXKv1SfY8) |
+| Análisis de Redes Complejas | 27/3 - 14/4 | |
+| Aprendizaje Automático | 24/4 - 12/5 | |
+| Metaheurísticas | 15/5 - 9/6 | |
 
 Todos los cursos constarán de 2 actividades presenciales semanales, generalmente dos sesiones de 4 horas en el horario de la tarde.
 
@@ -24,9 +24,7 @@ Todos los cursos constarán de 2 actividades presenciales semanales, generalment
 
 ## Inscripción
 
-Para aplicar a cualquiera de los cursos ofertados, haga click en el siguiente link:
-
-> ### [Formulario de Inscripción en Curso de Posgrado]()
+Para aplicar a cualquiera de los cursos ofertados, haga click en el link correspondiente en la columna Inscripción.
 
 Los requisitos para solicitar la matrícula son:
 
