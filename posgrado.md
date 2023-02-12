@@ -7,9 +7,9 @@ layout: default
 
 A continuación el listado de cursos de posgrado ofrecidos en el presente año.
 
-## Diplomado en Inteligencia Artificial
+## Ciencia de la Computación
 
-Los siguientes cursos de posgrado tributan al Diplomado en Inteligencia Artificial, por el que podrá optar una vez completados todos los créditos necesarios.
+Los siguientes cursos de posgrado pertenecen a la temática de Ciencia de la Computación. Todos los cursos tributan a los programas de diplomados y maestrias de la Facultad.
 
 | Título | Fecha |  |
 |--------|-------|-------------|
