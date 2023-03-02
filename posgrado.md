@@ -5,7 +5,7 @@ layout: default
 
 # Cursos de Posgrado en Ciencia de la Computación
 
-La facultad de Matemática y Computación ofrecerá en el presente calendario académico 2023 varios cursos de postgrado en la especialidad de Ciencia de la Computación que abordarán diversas varias temáticas de actualidad para la Transformación Digital.
+La facultad de Matemática y Computación ofrecerá en el presente calendario académico 2023 varios cursos de postgrado en la especialidad de Ciencia de la Computación que abordarán diversas temáticas de actualidad para la Transformación Digital.
 Los créditos obtenidos por cada curso pueden ser usados posteriormente en programas de diplomado y/o maestría de la Facultad.
 
 El listado de cursos para este semestre hasta el verano son:
