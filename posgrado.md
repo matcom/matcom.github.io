@@ -27,7 +27,7 @@ Para aplicar a cualquiera de los cursos ofertados, haga click en el link corresp
 
 Los requisitos para solicitar la matrícula son:
 
-- Ser graduado de nivel superior, preferiblemente de una carrera con perfil relacionado a la Matemática y/o la Ciencia de la Computación (en carreras no relacionadas se analizará de forma particular el currículum). Presentar copia bien legible de su tíulo y de carnet de identidad.
+- Ser graduado de nivel superior, preferiblemente de una carrera con perfil relacionado a la Matemática y/o la Ciencia de la Computación (en carreras no relacionadas se analizará de forma particular el currículum). Presentar copia bien legible de su título.
 - Presentar un currículum vitae resumido (1-2 páginas), incluyendo foto.
 - Presentar un aval del director de la empresa, decano o jefe de la institución a la que pertenece.
 - Declarar que posee acceso a recursos de cómputo y conectividad necesarios para su trabajo durante el curso y la posterior evaluación.
