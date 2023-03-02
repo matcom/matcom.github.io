@@ -23,7 +23,7 @@ Los cursos ofertados en el segundo semestre de 2023 serán publicados posteriome
 
 ## Requisitos de Inscripción
 
-> ⚠️ Para recibir por correo electrónico tanto la confirmación de matrícula como cualquier otra información relacionada con estos cursos, debe [**subscribirse a nuestro boletín aquí**](https://matcom.substack.com?sd=pf).
+> ⚠️ Para recibir por correo electrónico tanto la confirmación de matrícula como cualquier otra información relacionada con estos cursos, debe [subscribirse a nuestro boletín aquí](https://matcom.substack.com?sd=pf).
 
 Para aplicar a cualquiera de los cursos ofertados, haga click en el link correspondiente en la columna *Inscripción*.
 
