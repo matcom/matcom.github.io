@@ -3,24 +3,23 @@ layout: default
 ---
 
 
-# Cursos de Posgrado
+# Cursos de Posgrado en Ciencia de la Computación
 
-A continuación el listado de cursos de posgrado ofrecidos en el presente año.
+La facultad de Matemática y Computación ofrecerá en el presente calendario académico 2023 varios cursos de postgrado en la especialidad de Ciencia de la Computación que abordarán diversas varias temáticas de actualidad para la Transformación Digital.
+Los créditos obtenidos por cada curso pueden ser usados posteriormente en programas de diplomado y/o maestría de la Facultad.
 
-## Ciencia de la Computación
-
-Los siguientes cursos de posgrado pertenecen a la temática de Ciencia de la Computación. Todos los cursos tributan a los programas de diplomados y maestrias de la Facultad.
+El listado de cursos para este semestre hasta el verano son:
 
 | Título | Fecha |  |
 |--------|-------|-------------|
-| Introducción a Python | 6/3 - 24/3 | [Inscribirse](https://forms.gle/AaqR4XeLzXKv1SfY8) |
-| Análisis de Redes Complejas | 27/3 - 14/4 | |
-| Aprendizaje Automático | 24/4 - 12/5 | |
-| Metaheurísticas | 15/5 - 9/6 | |
+| Introducción a Python | 20/3 - 07/4 | [Inscribirse](https://forms.gle/AaqR4XeLzXKv1SfY8) |
+| Análisis de Redes Complejas | 17/4 - 05/5 | |
+| Aprendizaje Automático | 15/6 - 02/6 | |
+| Metaheurísticas | 12/6 - 30/6 | |
 
-Todos los cursos constarán de 2 actividades presenciales semanales, generalmente dos sesiones de 4 horas en el horario de la tarde.
+Todos los cursos constarán de 6 sesiones de 4 horas lectivas presenciales a 2 sesiones semanales en el horario de la tarde.
 
-> Los cursos ofertados en el segundo semestre de 2023 serán publicados a finales del semestre actual.
+> Los cursos ofertados en el segundo semestre de 2023 serán publicados posteriomente.
 
 ## Inscripción
 
@@ -28,8 +27,33 @@ Para aplicar a cualquiera de los cursos ofertados, haga click en el link corresp
 
 Los requisitos para solicitar la matrícula son:
 
-- Ser graduado de nivel superior, preferiblemente de una carrera con perfil relacionado a la Matemática y/o la Ciencia de la Computación (en carreras no relacionadas se analizará de forma particular el currículum).
-- Presentar un currículum vitae resumido (1-2 páginas).
-- Presentar un aval de la institución a la que pertenece donde su superior inmediato se comprometa a garantizar que usted dispone del tiempo suficiente para participar en las actividades lectivas y realizar las evaluaciones correspondientes.
+- Ser graduado de nivel superior, preferiblemente de una carrera con perfil relacionado a la Matemática y/o la Ciencia de la Computación (en carreras no relacionadas se analizará de forma particular el currículum). Presentar copia bien legible de su tíulo y de carnet de identidad.
+- Presentar un currículum vitae resumido (1-2 páginas), incluyendo foto.
+- Presentar un aval del director de la empresa, decano o jefe de la institución a la que pertenece.
+- Declarar que posee acceso a recursos de cómputo y conectividad necesarios para su trabajo durante el curso y la posterior evaluación.
 
-Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, las matrículas otorgadas serán notificadas via correo electrónico con un mínimo de **7 días** antes del comienzo del curso en cuestión.
+La matrícula es libre de costo pero hay un cupo limitado de plazas. Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, se notificará su aceptación por correo electrónico con un mínimo de **7 días** antes del comienzo del curso.
+
+Una vez aceptada una matrícula esta no podrá ser transferida a otra persona.
+
+Es requisito indispensable tener al menos 4 asistencias (presenciales) para evaluar y poder aprobar el curso. La baja por inasistencias a un curso al que ya se la haya aceptado su matrícula lo invalida a solicitar matrícula a algún curso posterior.
+
+## Descripción de los cursos
+
+### Introducción a Python
+
+#### Objetivos
+
+Python es un lenguaje multiparadigma que está en los primeros lugares de popularidad según los diferentes rankings de medición. En el presente es uno de los lenguajes más utilizados por la comunidad de Inteligencia Artificial y de Ciencia de Datos.
+El curso está orientado a quienes tengan conocimientos y hayan practicado la programación sobre algún otro lenguaje.
+Se desarrollarán los conceptos fundamentales de la programación en Python para que luego puedan ser ampliados, orientados y aplicados según las especificidades que se necesiten en otros cursos del programa.
+
+#### Contenidos
+
+- El modelo de ejecución de Python. Tipado dinámico vs Tipado estático.
+- Tipos básicos. Estructuras de datos built-in en Python: Listas, Diccionarios, Tuplos, Secuencias
+- Módulos, clases, funciones, variables y ámbito
+- Instrucciones básicas
+- Programación funcional. Funciones como ciudadanos de primera clase. Ámbito y argumentos. Funciones especiales. Clausura. Decoradores
+- Programación orientada a objetos. Clases y métodos. OOP y Herencia. OOP y Composición. OOP y Delegación. Herencia múltiple
+- Excepciones
