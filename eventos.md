@@ -33,10 +33,10 @@ Festival Nacional de Matemática y Computación | Sept. 2023
 
 🏆Evento | 🗓️Fecha
 -------|-------
-[25th International Workshop on Computer Algebra in Scientific Computing](https://www.casc-conference.org/) | 28/8/2023
 [Convención Científica Internacional UH](https://convencion.uh.cu/) | 29/5/2023
 [Taller de IA, CD, y Aplicaciones Criptográficas AIDAC](https://convencion.uh.cu/eventos/evento.php?IDEvento=8) | 30/5/2023
 [15 Taller Internacional de Investigación de Operaciones IWOR 2023](https://convencion.uh.cu/eventos/evento.php?IDEvento=6) | 30/5/2023
+[25th International Workshop on Computer Algebra in Scientific Computing](https://www.casc-conference.org/) | 28/8/2023
 COMPUMAT 2023 | Nov. 2023
 European-Latin-American Conference of Theoretical and Applied Mechanics | Feb. 2024
 
