@@ -27,3 +27,7 @@ Otros canales de interés:
 - [Canal de Alumni](https://t.me/matcom_alumni)
 - [Canal de Investigación](https://t.me/matcom_research)
 - [Canal de Posgrado](https://t.me/matcom_postgrad)
+
+## 🗞️ Newsletter
+
+<iframe src="https://matcom.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
