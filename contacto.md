@@ -9,7 +9,7 @@ path: /contacto
 
 | Oficina | Teléfono |
 |---------|----------|
-| Decanato | 7879-0890 |
+| Decanato | [78790990](tel:+5378790990) |
 | Vicedecano Docente | 7878-2161 |
 | Vicedecano Investigación y Postgrado | 7870-4700 |
 | Secretaría Docente | 7878-8690 |
