@@ -4,15 +4,13 @@ Esta página contiene vínculos a recursos, proyectos, y otras páginas de MatCo
 
 > Para adicionar o corregir información, puede dejar un PR, o contactar a [@apiad](https://t.me/apiad) en Telegram.
 
-## 🏆 Eventos
+## ☎️ [Información de Contacto](/contacto)
 
-- [Listado de eventos 2023](/eventos)
+## 🏆 [Eventos](/eventos)
 
 ## ⚗️ Investigación y Posgrado
 
-### Cursos de Posgrado
-
-- [Ofertas de cursos de posgrado CC](/posgrado)
+### 🎓 [Cursos de Posgrado](/posgrado)
 
 ## 🗨️ Canales y Grupos de Telegram
 
