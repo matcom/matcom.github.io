@@ -7,19 +7,21 @@ path: /contacto
 
 ## Teléfonos
 
+## Oficinas
+
 | Oficina | Teléfono |
 |---------|----------|
 | Decanato | [78790990](tel:+5378790990) |
-| Vicedecano Docente | 7878-2161 |
-| Vicedecano Investigación y Postgrado | 7870-4700 |
-| Secretaría Docente | 7878-8690 |
-| Administración | 7876-4839 |
-| Laboratorio | 7878-1235 |
+| Vicedecano Docente | [78782161](tel:+5378782161) |
+| Vicedecano Investigación y Postgrado | [78704700](tel:+5378704700) |
+| Secretaría Docente | [78788690](tel:+5378788690) |
+| Administración | [78764839](tel:+5378764839) |
+| Laboratorio | [78781235](tel:+5378781235) |
 
 ### Departamentos
 
 | Departamento | Teléfono |
 |---------|----------|
-| Programación | 7879-5771 |
-| Inteligencia Artificial | 7878-0903 |
-| Matemática | 7870-4367 |
+| Programación | [78795771](tel:+5378795771) |
+| Inteligencia Artificial | [78780903](tel:+5378780903) |
+| Matemática | [78704367](tel:+5378704367) |
