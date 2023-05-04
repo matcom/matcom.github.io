@@ -12,7 +12,7 @@ El listado de cursos para este semestre hasta el verano son:
 
 | Título | Fecha |  |
 |--------|-------|-------------|
-| Análisis de Redes Complejas | 08/5 - 26/5 | [Inscribirse](https://forms.gle/k7CQympTKTKaFULd9) |
+| Análisis de Redes Complejas | 08/5 - 26/5 | **Inscripción cerrada**
 | Aprendizaje Automático | 05/6 - 23/6 | |
 | Metaheurísticas | 26/6 - 14/7 | |
 
