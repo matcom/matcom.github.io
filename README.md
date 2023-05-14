@@ -12,7 +12,9 @@ Esta página contiene vínculos a recursos, proyectos, y otras páginas de MatCo
 
 ### 🎓 [Cursos de Posgrado](/posgrado)
 
-## 🗨️ Canales y Grupos de Telegram
+## 🗨️ Canales, Grupos y Comunidades
+
+### Telegram
 
 Canales oficiales de la Facultad:
 
@@ -20,11 +22,15 @@ Canales oficiales de la Facultad:
 - [MatCom Discuss](https://t.me/joinchat/RVLUImMXV1_4-4P7)
 - [MatCom Offtopic](https://t.me/matcomofftopic)
 
-Otros canales de interés:
+Otros canales de interés e:
 
 - [Canal de Alumni](https://t.me/matcom_alumni)
 - [Canal de Investigación](https://t.me/matcom_research)
 - [Canal de Posgrado](https://t.me/matcom_postgrad)
+
+### GitHub
+
+- [Comunidad Open Source](https://github.com/HackMATCOM)
 
 ## 🗞️ Newsletter
 
