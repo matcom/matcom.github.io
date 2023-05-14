@@ -34,4 +34,4 @@ Otros canales de interés e:
 
 ## 🗞️ Newsletter
 
-<iframe src="https://matcom.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+[![Content Screenshot](./iframe.jpg)](https://hackmatcom.github.io/matcom.github.io/embed.html)
