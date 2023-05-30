@@ -12,10 +12,9 @@ El listado de cursos para este semestre hasta el verano son:
 
 | Título | Fecha |  |
 |--------|-------|-------------|
-| Introducción a Python | 20/3 - 07/4 | [📝 Inscribirse](https://forms.gle/AaqR4XeLzXKv1SfY8) |
-| Análisis de Redes Complejas | 17/4 - 05/5 | |
-| Aprendizaje Automático | 15/6 - 02/6 | |
-| Metaheurísticas | 12/6 - 30/6 | |
+| Análisis de Redes Complejas | 08/5 - 26/5 | **Inscripción cerrada**
+| Aprendizaje Automático | 05/6 - 23/6 | |
+| Metaheurísticas | 26/6 - 14/7 | |
 
 Todos los cursos constarán de 6 sesiones de 4 horas lectivas presenciales a 2 sesiones semanales en el horario de la tarde.
 
@@ -35,7 +34,6 @@ Los requisitos para solicitar la matrícula son:
 - Declarar que posee acceso a recursos de cómputo y conectividad necesarios para su trabajo durante el curso y la posterior evaluación.
 
 La matrícula es libre de costo pero hay un cupo limitado de plazas. La matrícula cierra **15 días** antes de la fecha de inicio de cada curso. Una vez analizadas todas las solicitudes, en función de las capacidades de cada curso, se notificará su aceptación por correo electrónico con un mínimo de **7 días** antes del comienzo del curso.
-
 
 Una vez aceptada una matrícula esta no podrá ser transferida a otra persona.
 
