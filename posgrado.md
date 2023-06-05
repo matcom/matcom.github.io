@@ -13,8 +13,11 @@ El listado de cursos para este semestre hasta el verano son:
 | Título | Fecha |  |
 |--------|-------|-------------|
 | Análisis de Redes Complejas | 08/5 - 26/5 | **Inscripción cerrada**
-| Aprendizaje Automático | 05/6 - 23/6 | |
-| Metaheurísticas | 26/6 - 14/7 | |
+| Metaheurísticas | 16/6 - 05/7 | [Inscribirse](https://forms.gle/6VmZQvxfg4f25yw18) |
+| Aprendizaje Automático | TBD | |
+| Aprendizaje Profundo | TBD | |
+| Procesamiento de Lenguaje Natural | TBD | |
+| AutoML | TBD | |
 
 Todos los cursos constarán de 6 sesiones de 4 horas lectivas presenciales a 2 sesiones semanales en el horario de la tarde.
 
@@ -22,7 +25,7 @@ Los cursos ofertados en el segundo semestre de 2023 serán publicados posteriome
 
 ## Requisitos de Inscripción
 
-> ⚠️ Para recibir por correo electrónico tanto la confirmación de matrícula como cualquier otra información relacionada con estos cursos, debe [subscribirse a nuestro boletín aquí](https://matcom.substack.com?sd=pf).
+> ⚠️ Para recibir por correo electrónico tanto la confirmación de matrícula como cualquier otra información relacionada con estos cursos, debe [subscribirse a nuestro boletín aquí](https://matcom.substack.com).
 
 Para aplicar a cualquiera de los cursos ofertados, haga click en el link correspondiente en la columna *Inscripción*.
 
@@ -38,23 +41,3 @@ La matrícula es libre de costo pero hay un cupo limitado de plazas. La matrícu
 Una vez aceptada una matrícula esta no podrá ser transferida a otra persona.
 
 Es requisito indispensable tener al menos 4 asistencias (presenciales) para evaluar y poder aprobar el curso. La baja por inasistencias a un curso al que ya se la haya aceptado su matrícula lo invalida a solicitar matrícula a algún curso posterior.
-
-## Descripción de los cursos
-
-### Introducción a Python
-
-#### Objetivos
-
-Python es un lenguaje multiparadigma que está en los primeros lugares de popularidad según los diferentes rankings de medición. En el presente es uno de los lenguajes más utilizados por la comunidad de Inteligencia Artificial y de Ciencia de Datos.
-El curso está orientado a quienes tengan conocimientos y hayan practicado la programación sobre algún otro lenguaje.
-Se desarrollarán los conceptos fundamentales de la programación en Python para que luego puedan ser ampliados, orientados y aplicados según las especificidades que se necesiten en otros cursos del programa.
-
-#### Contenidos
-
-- El modelo de ejecución de Python. Tipado dinámico vs Tipado estático.
-- Tipos básicos. Estructuras de datos built-in en Python: Listas, Diccionarios, Tuplos, Secuencias
-- Módulos, clases, funciones, variables y ámbito
-- Instrucciones básicas
-- Programación funcional. Funciones como ciudadanos de primera clase. Ámbito y argumentos. Funciones especiales. Clausura. Decoradores
-- Programación orientada a objetos. Clases y métodos. OOP y Herencia. OOP y Composición. OOP y Delegación. Herencia múltiple
-- Excepciones
