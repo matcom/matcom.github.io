@@ -8,6 +8,7 @@
 --|--|--|--
 Jue 15 | 11:30 - 1:30 | Biomatemática   | Aula Posgrado
 Vie 16 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
+Lun 19 | 10:00 - 12:00 | Predefensa Damián Valdés | Aula Posgrado
 Mie 21 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
 Vie 23 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
 Mie 28 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
