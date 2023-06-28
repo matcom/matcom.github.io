@@ -19,3 +19,5 @@ Vie 30 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
 🗓️ Día | ⏰ Hora | 📝 Descripción | 📌 Lugar
 --|--|--|--
 Mie 05 | 2:00 - 5:00  | Metaheurísticas | Aula Posgrado
+Vie 07 | 9:00 - 12:30 | Seminarios MCM | Aula Posgrado
+Vie 14 | 9:00 - 12:30 | Seminarios MCM | Aula Posgrado
