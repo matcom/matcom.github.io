@@ -31,17 +31,24 @@ Olimpiada Iraní de Geometría | 11/Nov/2023
 Concurso Internacional de Programación ICPC (Mundial) | 23/Nov/2023
 Olimpiada Iberoamericana de Matemática Universitaria | 26/Nov/2023
 
+<details>
+
 ## Charlas y Conferencias Magistrales
 
 📢Título | 🗓️Fecha | ⏰Hora | 📌Lugar
 ---|---|---|---
+...
 
 ## Premiaciones
 
 🏆Evento | 🗓️Fecha | ⏰Hora | 📌Lugar
 ---|---|---|---
+...
 
 ## Seminarios y Escuelas de Verano
 
 🏆Evento | 🗓️Fecha
 ---|---
+...
+
+</details>
